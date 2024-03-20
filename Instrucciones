@@ -1,0 +1,7 @@
+Para inicializar la simulación del robot diferencial en Gazebo con un mundo vacío, ingresar el comando:
+ros2 launch my_bot launch_sim.launch.py world:=./src/my_bot/worlds/empty.world
+
+Para llamar la Ley de Control, ingresar:
+ros2 run control_law control
+
+El programa pide ingresar las coordenadas objetivo desde la terminal.
