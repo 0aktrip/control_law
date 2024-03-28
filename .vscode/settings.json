@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/michel/dev_ws/install/control_law/lib/python3.10/site-packages",
+        "/home/michel/dev_ws/build/bot_mov",
+        "/home/michel/dev_ws/install/bot_mov/lib/python3.10/site-packages",
+        "/home/michel/ros2_ws/build/my_robot_controller",
+        "/home/michel/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/michel/dev_ws/install/control_law/lib/python3.10/site-packages",
+        "/home/michel/dev_ws/build/bot_mov",
+        "/home/michel/dev_ws/install/bot_mov/lib/python3.10/site-packages",
+        "/home/michel/ros2_ws/build/my_robot_controller",
+        "/home/michel/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

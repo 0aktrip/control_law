@@ -1,0 +1,25 @@
+[0.529s] Invoking command in '/home/michel/dev_ws/src/control_law': PYTHONPATH=/home/michel/dev_ws/src/control_law/build/control_law/prefix_override:/home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/control_law build --build-base /home/michel/dev_ws/src/control_law/build/control_law/build install --record /home/michel/dev_ws/src/control_law/build/control_law/install.log --single-version-externally-managed
+[0.686s] running egg_info
+[0.687s] writing build/control_law/control_law.egg-info/PKG-INFO
+[0.687s] writing dependency_links to build/control_law/control_law.egg-info/dependency_links.txt
+[0.687s] writing entry points to build/control_law/control_law.egg-info/entry_points.txt
+[0.687s] writing requirements to build/control_law/control_law.egg-info/requires.txt
+[0.687s] writing top-level names to build/control_law/control_law.egg-info/top_level.txt
+[0.688s] reading manifest file 'build/control_law/control_law.egg-info/SOURCES.txt'
+[0.688s] adding license file 'LICENSE'
+[0.688s] writing manifest file 'build/control_law/control_law.egg-info/SOURCES.txt'
+[0.689s] running build
+[0.689s] running build_py
+[0.689s] copying control_law/control.py -> /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law
+[0.689s] running install
+[0.689s] running install_lib
+[0.689s] copying /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law/control.py -> /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law
+[0.690s] byte-compiling /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law/control.py to control.cpython-310.pyc
+[0.690s] running install_data
+[0.690s] running install_egg_info
+[0.692s] removing '/home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law-0.0.0-py3.10.egg-info' (and everything under it)
+[0.692s] Copying build/control_law/control_law.egg-info to /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law-0.0.0-py3.10.egg-info
+[0.692s] running install_scripts
+[0.704s] Installing control script to /home/michel/dev_ws/src/control_law/install/control_law/lib/control_law
+[0.705s] writing list of installed files to '/home/michel/dev_ws/src/control_law/build/control_law/install.log'
+[0.721s] Invoked command in '/home/michel/dev_ws/src/control_law' returned '0': PYTHONPATH=/home/michel/dev_ws/src/control_law/build/control_law/prefix_override:/home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/control_law build --build-base /home/michel/dev_ws/src/control_law/build/control_law/build install --record /home/michel/dev_ws/src/control_law/build/control_law/install.log --single-version-externally-managed

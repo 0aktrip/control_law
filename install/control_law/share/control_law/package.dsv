@@ -1,0 +1,6 @@
+source;share/control_law/hook/pythonpath.ps1
+source;share/control_law/hook/pythonpath.dsv
+source;share/control_law/hook/pythonpath.sh
+source;share/control_law/hook/ament_prefix_path.ps1
+source;share/control_law/hook/ament_prefix_path.dsv
+source;share/control_law/hook/ament_prefix_path.sh

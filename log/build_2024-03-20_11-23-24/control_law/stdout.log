@@ -1,0 +1,36 @@
+running egg_info
+creating build/control_law/control_law.egg-info
+writing build/control_law/control_law.egg-info/PKG-INFO
+writing dependency_links to build/control_law/control_law.egg-info/dependency_links.txt
+writing entry points to build/control_law/control_law.egg-info/entry_points.txt
+writing requirements to build/control_law/control_law.egg-info/requires.txt
+writing top-level names to build/control_law/control_law.egg-info/top_level.txt
+writing manifest file 'build/control_law/control_law.egg-info/SOURCES.txt'
+reading manifest file 'build/control_law/control_law.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/control_law/control_law.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/michel/dev_ws/src/control_law/build/control_law/build
+creating /home/michel/dev_ws/src/control_law/build/control_law/build/lib
+creating /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law
+copying control_law/control.py -> /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law
+copying control_law/__init__.py -> /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law
+running install
+running install_lib
+creating /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law
+copying /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law/control.py -> /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law
+copying /home/michel/dev_ws/src/control_law/build/control_law/build/lib/control_law/__init__.py -> /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law
+byte-compiling /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law/control.py to control.cpython-310.pyc
+byte-compiling /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/michel/dev_ws/src/control_law/install/control_law/share/ament_index
+creating /home/michel/dev_ws/src/control_law/install/control_law/share/ament_index/resource_index
+creating /home/michel/dev_ws/src/control_law/install/control_law/share/ament_index/resource_index/packages
+copying resource/control_law -> /home/michel/dev_ws/src/control_law/install/control_law/share/ament_index/resource_index/packages
+copying package.xml -> /home/michel/dev_ws/src/control_law/install/control_law/share/control_law
+running install_egg_info
+Copying build/control_law/control_law.egg-info to /home/michel/dev_ws/src/control_law/install/control_law/lib/python3.10/site-packages/control_law-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control script to /home/michel/dev_ws/src/control_law/install/control_law/lib/control_law
+writing list of installed files to '/home/michel/dev_ws/src/control_law/build/control_law/install.log'
